@@ -19,7 +19,7 @@
     "date": "March 14, 2022",
     "time": "10:00",
     "petsAllowed": true,
-    "organiser": "Fern Polin",
+    "organiser": "Fern Polin"
   },
   {
     "id": 8419988,
@@ -30,6 +30,6 @@
     "date": "July 22, 2022",
     "time": "11:00",
     "petsAllowed": false,
-    "organiser": "Carey Wales",
+    "organiser": "Carey Wales"
   }]
 }
